@@ -14,5 +14,5 @@ Script Made By 5nz
 
 ]]--
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/5nz/CORRUPTION/main/Main.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/5nz/CORRUPTION/main/Keysystem.lua'))()
 ```
