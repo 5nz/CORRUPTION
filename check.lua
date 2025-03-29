@@ -1,7 +1,7 @@
 local games = {
     [4483381587] = "Baseplate",
-    [14184086618] = "ObbyButYourOnABike".
-    [12742233841] = "Every Second You Get +1 WalkSpeed"
+    [14184086618] = "ObbyButYourOnABike",
+    [12742233841] = "every-second"
 }
 
 local URL = "https://raw.githubusercontent.com/5nz/CORRUPTION/main/Games/"
